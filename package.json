@@ -1,0 +1,32 @@
+{
+  "name": "webpack_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "@babel/core": "^7.0.1",
+    "sass-loader": "^7.1.0",
+    "webpack": "^3.12.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.2",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^1.0.0",
+    "style-loader": "^0.23.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hypnosss/webpack_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hypnosss/webpack_demo/issues"
+  },
+  "homepage": "https://github.com/Hypnosss/webpack_demo#readme"
+}
